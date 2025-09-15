@@ -7,7 +7,7 @@
             int num1, num2;
             Fraction f1 = new Fraction(6, 3);
 			Console.WriteLine("Enter nominator");
-            string str = null;
+           
             bool validInput = false;
             while (!validInput)
             {
