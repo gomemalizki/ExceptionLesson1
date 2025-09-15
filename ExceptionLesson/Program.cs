@@ -13,6 +13,7 @@
             {
                 try
                 {
+                    //comment קליטת מספרים
                     num1 = int.Parse(Console.ReadLine());
                     Console.WriteLine("Enter Denominator");
                     num2 = int.Parse(Console.ReadLine());
